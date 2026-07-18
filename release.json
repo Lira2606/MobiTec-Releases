@@ -1,0 +1,16 @@
+{
+  "app": "MobiTec",
+  "versionName": "2.3.0",
+  "versionCode": 12,
+  "minimumVersionCode": 12,
+  "mandatory": false,
+  "title": "MobiTec v2.3.0",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/latest/download/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/latest",
+  "changes": [
+    "Melhorias de desempenho",
+    "Correções de bugs",
+    "Interface otimizada",
+    "Primeira versão oficial distribuída pelo repositório MobiTec-Releases"
+  ]
+}
