@@ -5,8 +5,8 @@
   "minimumVersionCode": 20,
   "mandatory": false,
   "title": "Versão 2.4.6 - Otimização Extrema (Performance)",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.6/app-release.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.6",
+  "apkUrl": "https://github.com/Lira2606/Mobitec_App/releases/download/v2.4.6/app-release.apk",
+  "releasePageUrl": "https://github.com/Lira2606/Mobitec_App/releases/tag/v2.4.6",
   "changes": [
     "Nova Otimização de Performance (Scroll ultra suave)",
     "Nova Busca Inteligente: Teclado super rápido sem engasgos",
