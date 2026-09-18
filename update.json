@@ -1,1 +1,17 @@
-
+{
+  "app": "MobiTec Field Service",
+  "versionName": "2.4.6",
+  "versionCode": 24,
+  "minimumVersionCode": 20,
+  "mandatory": false,
+  "title": "Versão 2.4.6 - Otimização Extrema (Performance)",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.6/app-release.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.6",
+  "changes": [
+    "Nova Otimização de Performance (Scroll ultra suave)",
+    "Nova Busca Inteligente: Teclado super rápido sem engasgos",
+    "Correção de atrasos na abertura de modais grandes",
+    "Melhoria na renderização de botões para resposta instantânea ao toque (50ms)",
+    "Refatoração nas Telas de Histórico e Insumos"
+  ]
+}
