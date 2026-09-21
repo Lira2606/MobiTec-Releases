@@ -1,17 +1,16 @@
 {
   "app": "MobiTec Field Service",
-  "versionName": "2.4.6",
-  "versionCode": 24,
+  "versionName": "2.4.7",
+  "versionCode": 25,
   "minimumVersionCode": 20,
   "mandatory": false,
-  "title": "Versão 2.4.6 - Otimização Extrema (Performance)",
-  "apkUrl": "https://github.com/Lira2606/Mobitec_App/releases/download/v2.4.6/app-release.apk",
-  "releasePageUrl": "https://github.com/Lira2606/Mobitec_App/releases/tag/v2.4.6",
+  "title": "Versão 2.4.7 - Ajustes nas Mensagens",
+  "apkUrl": "https://github.com/Lira2606/Mobitec_App/releases/download/v2.4.7/app-release.apk",
+  "releasePageUrl": "https://github.com/Lira2606/Mobitec_App/releases/tag/v2.4.7",
   "changes": [
+    "Ajuste na formatação das mensagens do Telegram (remoção do Offline Cache na assinatura)",
     "Nova Otimização de Performance (Scroll ultra suave)",
-    "Nova Busca Inteligente: Teclado super rápido sem engasgos",
-    "Correção de atrasos na abertura de modais grandes",
-    "Melhoria na renderização de botões para resposta instantânea ao toque (50ms)",
-    "Refatoração nas Telas de Histórico e Insumos"
+    "Nova Busca Inteligente: Teclado super rápido sem engasgos"
   ]
 }
+
