@@ -5,8 +5,8 @@
   "minimumVersionCode": 20,
   "mandatory": false,
   "title": "Versão 2.4.8 - Ajustes nas Mensagens",
-  "apkUrl": "https://github.com/Lira2606/Mobitec_App/releases/download/v2.4.7/app-release.apk",
-  "releasePageUrl": "https://github.com/Lira2606/Mobitec_App/releases/tag/v2.4.7",
+  "apkUrl": "https://github.com/Lira2606/Mobitec_App/releases/download/v2.4.8/app-release.apk",
+  "releasePageUrl": "https://github.com/Lira2606/Mobitec_App/releases/tag/v2.4.8",
   "changes": [
     "Ajuste na formatação das mensagens do Telegram",
     "Nova Otimização de Performance (Scroll ultra suave)",
