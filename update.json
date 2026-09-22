@@ -1,7 +1,7 @@
 {
   "app": "MobiTec Field Service",
   "versionName": "2.4.7",
-  "versionCode": 25,
+  "versionCode": 26,
   "minimumVersionCode": 20,
   "mandatory": false,
   "title": "Versão 2.4.7 - Ajustes nas Mensagens",
