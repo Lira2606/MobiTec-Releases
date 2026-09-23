@@ -1,14 +1,15 @@
 {
   "app": "MobiTec",
-  "versionName": "2.4.10",
-  "versionCode": 28,
+  "versionName": "2.4.11",
+  "versionCode": 29,
   "minimumVersionCode": 20,
   "mandatory": false,
-  "title": "Versão 2.4.10 - Desempenho e Layout",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.10/MobiTec.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.10",
+  "title": "Versão 2.4.11 - Layout e Teclado",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.11/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.11",
   "changes": [
     "Otimização: Teclado abre instantaneamente sem travar",
     "Correção: O layout do formulário agora se ajusta 100% à tela"
   ]
 }
+
