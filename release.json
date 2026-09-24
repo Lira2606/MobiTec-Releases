@@ -1,15 +1,16 @@
 {
   "app": "MobiTec",
-  "versionName": "2.4.11",
-  "versionCode": 29,
+  "versionName": "2.4.12",
+  "versionCode": 30,
   "minimumVersionCode": 20,
   "mandatory": false,
-  "title": "Versão 2.4.11 - Layout e Teclado",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.11/MobiTec.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.11",
+  "title": "Versão 2.4.12 - Blindagem de Layout e Nomes Longos",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.12/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.12",
   "changes": [
-    "Otimização: Teclado abre instantaneamente sem travar",
-    "Correção: O layout do formulário agora se ajusta 100% à tela"
+    "Blindagem de layout contra quebra e rolagem lateral em qualquer modelo de celular",
+    "Truncamento automático e elegante de nomes longos em campos de seleção",
+    "Correção de alinhamento e dimensões nos modais de Envio de Insumos e Instalações"
   ]
 }
 
