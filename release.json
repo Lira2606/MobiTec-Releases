@@ -1,16 +1,15 @@
 {
   "app": "MobiTec",
-  "versionName": "2.4.12",
-  "versionCode": 30,
+  "versionName": "2.4.13",
+  "versionCode": 31,
   "minimumVersionCode": 20,
   "mandatory": false,
-  "title": "Versão 2.4.12 - Blindagem de Layout e Nomes Longos",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.12/MobiTec.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.12",
+  "title": "Versão 2.4.13 - Funções de Cadastro Alinhadas com Web",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.13/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.13",
   "changes": [
-    "Blindagem de layout contra quebra e rolagem lateral em qualquer modelo de celular",
-    "Truncamento automático e elegante de nomes longos em campos de seleção",
-    "Correção de alinhamento e dimensões nos modais de Envio de Insumos e Instalações"
+    "Opções de função na tela de cadastro alinhadas com a aplicação web",
+    "Melhorias no dropdown de seleção com rolagem e fechamento inteligente",
+    "Estabilidade e refinamentos gerais"
   ]
 }
-
