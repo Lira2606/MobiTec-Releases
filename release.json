@@ -1,13 +1,14 @@
 {
   "app": "MobiTec",
-  "versionName": "2.4.13",
-  "versionCode": 31,
+  "versionName": "2.4.14",
+  "versionCode": 32,
   "minimumVersionCode": 20,
   "mandatory": false,
-  "title": "Versão 2.4.13 - Funções de Cadastro Alinhadas com Web",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.13/MobiTec.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.13",
+  "title": "Versão 2.4.14 - Ajuste de Topo e Safe Area",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.14/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.14",
   "changes": [
+    "Ajuste de espaçamento seguro (safe area) no topo evitando sobreposição da barra de status",
     "Opções de função na tela de cadastro alinhadas com a aplicação web",
     "Melhorias no dropdown de seleção com rolagem e fechamento inteligente",
     "Estabilidade e refinamentos gerais"
