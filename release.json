@@ -1,16 +1,17 @@
 {
   "app": "MobiTec",
-  "versionName": "2.4.14",
-  "versionCode": 32,
+  "versionName": "2.4.15",
+  "versionCode": 33,
   "minimumVersionCode": 20,
   "mandatory": false,
-  "title": "Versão 2.4.14 - Ajuste de Topo e Safe Area",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.14/MobiTec.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.14",
+  "title": "Versão 2.4.15 - Design Mobile & Diário de Bordo",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.15/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.15",
   "changes": [
-    "Ajuste de espaçamento seguro (safe area) no topo evitando sobreposição da barra de status",
-    "Opções de função na tela de cadastro alinhadas com a aplicação web",
-    "Melhorias no dropdown de seleção com rolagem e fechamento inteligente",
-    "Estabilidade e refinamentos gerais"
+    "Cards de tarefas e detalhes redesenhados para ergonomia mobile (mais compactos e sem UUID cru)",
+    "Novo modal de inspeção técnica com seleção rápida de todos os itens e barra de progresso",
+    "Cockpit do Diário de Bordo horizontal compacto, liberando espaço de tela e destacando placas Mercosul",
+    "Eliminação do pisca de carregamento ao trocar de abas (cache-first)",
+    "Blindagem e responsividade universal para qualquer smartphone Android"
   ]
 }
