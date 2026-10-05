@@ -1,17 +1,16 @@
 {
   "app": "MobiTec",
-  "versionName": "2.4.15",
-  "versionCode": 33,
+  "versionName": "2.4.16",
+  "versionCode": 34,
   "minimumVersionCode": 20,
   "mandatory": false,
-  "title": "Versão 2.4.15 - Design Mobile & Diário de Bordo",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.15/MobiTec.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.15",
+  "title": "Versão 2.4.16 - Nova Identidade Visual",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.16/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.16",
   "changes": [
-    "Cards de tarefas e detalhes redesenhados para ergonomia mobile (mais compactos e sem UUID cru)",
-    "Novo modal de inspeção técnica com seleção rápida de todos os itens e barra de progresso",
-    "Cockpit do Diário de Bordo horizontal compacto, liberando espaço de tela e destacando placas Mercosul",
-    "Eliminação do pisca de carregamento ao trocar de abas (cache-first)",
-    "Blindagem e responsividade universal para qualquer smartphone Android"
+    "Novo ícone do aplicativo com visual moderno",
+    "Tela de abertura (splash) redesenhada com animação cinematográfica e barra de progresso",
+    "Campo de busca de tarefas com novo visual premium e animações suaves",
+    "Botão 'Efeito Splash' no perfil agora funciona corretamente"
   ]
 }
