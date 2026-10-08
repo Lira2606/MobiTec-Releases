@@ -1,17 +1,13 @@
 {
   "app": "MobiTec",
-  "versionName": "2.4.17",
-  "versionCode": 35,
+  "versionName": "2.4.19",
+  "versionCode": 37,
   "minimumVersionCode": 20,
   "mandatory": false,
-  "title": "Versão 2.4.17 - Correção na Edição de Tarefas e Nova Identidade",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.17/MobiTec.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.17",
+  "title": "Versão 2.4.19 - Melhorias e ajustes",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.19/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.19",
   "changes": [
-    "Correção no salvamento do nome do representante ao editar tarefas e envio correto ao Telegram",
-    "Novo ícone do aplicativo com visual moderno",
-    "Tela de abertura (splash) redesenhada com animação cinematográfica e barra de progresso",
-    "Campo de busca de tarefas com novo visual premium e animações suaves",
-    "Botão 'Efeito Splash' no perfil funcional"
+    "Ajustes gerais e atualizações de versão."
   ]
 }
