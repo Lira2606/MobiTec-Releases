@@ -1,14 +1,16 @@
 {
   "app": "MobiTec",
-  "versionName": "2.4.19",
-  "versionCode": 37,
+  "versionName": "2.4.20",
+  "versionCode": 38,
   "minimumVersionCode": 20,
   "mandatory": false,
-  "title": "Versão 2.4.19 - Melhorias e ajustes",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.19/MobiTec.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.19",
+  "title": "Versão 2.4.20 - Correção em Recolhimento e Entrega de Equipamentos",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.20/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.20",
   "changes": [
-    "Ajustes gerais e atualizações de versão."
+    "Eliminada duplicação de registros ao salvar recolhimento de equipamentos",
+    "Correção que impedia criação indevida de entrada de equipamentos ao selecionar entrega",
+    "Proteção anti-duplo clique e controle de idempotência em requisições de equipamentos",
+    "Sanitização de tags HTML no compartilhamento e notificações do Telegram"
   ]
 }
-
