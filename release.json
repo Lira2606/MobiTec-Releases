@@ -1,0 +1,15 @@
+{
+  "app": "mobitec",
+  "versionName": "2.4.19",
+  "versionCode": 41,
+  "minimumVersionCode": 40,
+  "mandatory": false,
+  "title": "Atualização MobiTec v2.4.19",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.19/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.19",
+  "changes": [
+    "Sistema inteligente de atualização automática via GitHub",
+    "Melhorias no desempenho e sincronização de dados",
+    "Correção de layout e novas animações"
+  ]
+}
