@@ -9,7 +9,9 @@
   "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.19",
   "changes": [
     "Sistema inteligente de atualização automática via GitHub",
+    "Novo rolamento inteligente na tela de login adaptado ao teclado",
     "Melhorias no desempenho e sincronização de dados",
     "Correção de layout e novas animações"
   ]
 }
+
