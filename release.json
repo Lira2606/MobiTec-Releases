@@ -5,8 +5,8 @@
   "minimumVersionCode": 20,
   "mandatory": false,
   "title": "Versão 2.4.21 - Atualização Direta no App, Alerta de Retorno à MobiMark e Chegada Inteligente",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.21/MobiTec.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.21",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/2.4.21/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/2.4.21",
   "changes": [
     "Atualização Direta no App: Download com barra de progresso em tempo real e instalação nativa sem abrir o navegador",
     "Alerta Inteligente de Retorno à MobiMark: Geofence nativo com som e vibração após 5 minutos de chegada na sede sem finalizar a viagem",
