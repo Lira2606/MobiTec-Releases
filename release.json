@@ -1,19 +1,18 @@
 {
   "app": "MobiTec",
-  "versionName": "2.4.21",
-  "versionCode": 43,
+  "versionName": "2.4.22",
+  "versionCode": 44,
   "minimumVersionCode": 20,
   "mandatory": false,
-  "title": "Versão 2.4.21 - Atualização Direta no App, Alerta de Retorno à MobiMark e Chegada Inteligente",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/2.4.21/MobiTec.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/2.4.21",
+  "title": "Versão 2.4.22 - Modo Apenas Vibrar, Detecção Offline/Online em Tempo Real e Cabeçalhos Fixos",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/2.4.22/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/2.4.22",
   "changes": [
-    "Atualização Direta no App: Download com barra de progresso em tempo real e instalação nativa sem abrir o navegador",
-    "Alerta Inteligente de Retorno à MobiMark: Geofence nativo com som e vibração após 5 minutos de chegada na sede sem finalizar a viagem",
-    "Botão Físico Voltar do Android: Fecha modais abertos e retorna suavemente ao Dashboard sem fechar o aplicativo",
-    "Sincronização Offline de Chegadas: Confirmação de chegada na escola salva na fila offline e enviada automaticamente ao reconectar à internet",
-    "Performance no Diário de Bordo: Histórico otimizado com renderização incremental, eliminando travamentos de rolagem",
-    "Integração Rotas Inteligentes & Diário de Bordo: Navegação sincronizada entre paradas e tarefas ativas",
-    "Telegram Oficial de Produção: Notificações de chegada em 1 toque com diferenciação automática de escolas SEDUC e Municipais"
+    "Cabeçalhos Fixos no Início e no Perfil: Barra superior e resumo do técnico permanecem fixos ao rolar os cards",
+    "Notificações com Opção Apenas Vibrar: Novo controle para silenciar sons mantendo vibração nos alertas e lembrete de retorno",
+    "Detecção Offline/Online em Tempo Real: Monitoramento contínuo de rede e verificação imediata antes de concluir OS ou insumos",
+    "Botão Voltar e Margem Segura: Proteção contra fechamento em atualização obrigatória e alinhamento visual com a barra offline",
+    "Relatórios Padronizados no Telegram: Identificação do técnico e cargo unificados em OS, insumos, histórico e diário de bordo",
+    "Consistência de Perfil e Equipamentos: Atualização imediata do KM rodado ao encerrar viagem, contagem unificada de OS concluídas e tipo correto para carregadores offline"
   ]
 }
