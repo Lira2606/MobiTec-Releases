@@ -5,8 +5,8 @@
   "minimumVersionCode": 20,
   "mandatory": false,
   "title": "Versão 2.4.23 - Estabilidade da Câmera (Moto G8 Play), Município/Estado Corretos e Apenas Vibrar",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/2.4.23/MobiTec.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/2.4.23",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.23/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.23",
   "changes": [
     "Câmera Estável em Aparelhos de 2GB RAM (Moto G8 Play): Otimização nativa de memória, largeHeap e restauração automática do formulário da OS após capturar foto",
     "Município e Estado Corretos na Chegada: Identificação real de Município (ex: Teresina) e Estado (Piauí) via cache, secretaria ou GPS sem misturar estado com cidade",
