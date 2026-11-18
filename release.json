@@ -1,16 +1,16 @@
 {
   "app": "MobiTec",
-  "versionName": "2.4.24",
-  "versionCode": 46,
+  "versionName": "2.4.25",
+  "versionCode": 47,
   "minimumVersionCode": 20,
   "mandatory": false,
-  "title": "Versão 2.4.24 - Câmera Interna Leve (Moto G8 Play), Detalhes no Histórico e Compartilhamento com Foto",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.24/MobiTec.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.24",
+  "title": "Versão 2.4.25 - Suporte a Atualizações Invisíveis em Segundo Plano (OTA) e Câmera Estável",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.25/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.25",
   "changes": [
+    "Atualizações Invisíveis em Segundo Plano (EAS Update / OTA): Melhorias e correções agora são aplicadas de forma 100% silenciosa sem precisar reinstalar APK ou interromper o trabalho",
     "Câmera Interna Leve (Moto G8 Play): Captura nativa integrada sem abrir o aplicativo pesado da câmera Motorola, eliminando reinicializações do app por falta de memória RAM (2GB)",
     "Visualização Detalhada do Histórico: Modal completo para abrir e consultar todos os dados, observações e comprovantes de qualquer atendimento salvo",
-    "Compartilhamento com Foto: Envio de registros completos via WhatsApp e redes sociais agora anexa corretamente a foto capturada",
-    "Atualizador Interno Otimizado: Correção do instalador nativo do pacote Android com ACTION_VIEW e atalho de download direto pelo navegador"
+    "Compartilhamento com Foto: Envio de registros completos via WhatsApp e redes sociais agora anexa corretamente a foto capturada"
   ]
 }
