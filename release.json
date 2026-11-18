@@ -1,18 +1,16 @@
 {
   "app": "MobiTec",
-  "versionName": "2.4.23",
-  "versionCode": 45,
+  "versionName": "2.4.24",
+  "versionCode": 46,
   "minimumVersionCode": 20,
   "mandatory": false,
-  "title": "Versão 2.4.23 - Estabilidade da Câmera (Moto G8 Play), Município/Estado Corretos e Apenas Vibrar",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.23/MobiTec.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.23",
+  "title": "Versão 2.4.24 - Câmera Interna Leve (Moto G8 Play), Detalhes no Histórico e Compartilhamento com Foto",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.24/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.24",
   "changes": [
-    "Câmera Estável em Aparelhos de 2GB RAM (Moto G8 Play): Otimização nativa de memória, largeHeap e restauração automática do formulário da OS após capturar foto",
-    "Município e Estado Corretos na Chegada: Identificação real de Município (ex: Teresina) e Estado (Piauí) via cache, secretaria ou GPS sem misturar estado com cidade",
-    "Cabeçalhos Fixos no Início e no Perfil: Barra superior e card do técnico permanecem fixos ao rolar a tela",
-    "Notificações com Opção Apenas Vibrar: Novo controle para silenciar sons mantendo vibração nos alertas e lembrete de retorno",
-    "Detecção Offline/Online em Tempo Real: Monitoramento contínuo de rede e verificação imediata antes de concluir OS ou insumos",
-    "Relatórios Padronizados no Telegram e Perfil Consistente: Identificação do técnico unificada, atualização imediata do KM rodado ao encerrar viagem e tipo correto para carregadores offline"
+    "Câmera Interna Leve (Moto G8 Play): Captura nativa integrada sem abrir o aplicativo pesado da câmera Motorola, eliminando reinicializações do app por falta de memória RAM (2GB)",
+    "Visualização Detalhada do Histórico: Modal completo para abrir e consultar todos os dados, observações e comprovantes de qualquer atendimento salvo",
+    "Compartilhamento com Foto: Envio de registros completos via WhatsApp e redes sociais agora anexa corretamente a foto capturada",
+    "Atualizador Interno Otimizado: Correção do instalador nativo do pacote Android com ACTION_VIEW e atalho de download direto pelo navegador"
   ]
 }
