@@ -1,17 +1,16 @@
 {
   "app": "MobiTec",
-  "versionName": "2.4.27",
-  "versionCode": 49,
+  "versionName": "2.4.28",
+  "versionCode": 50,
   "minimumVersionCode": 20,
   "mandatory": false,
-  "title": "Versão 2.4.27 - Novo Ícone, Alarme com App Fechado e Atendimento Externo",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.27/MobiTec.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.27",
+  "title": "Versão 2.4.28 - Correção de Envios, Múltiplas Zonas no Diário de Bordo e Atualização Automática",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.28/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.28",
   "changes": [
-    "Novo Ícone Circular Adaptativo: Identidade visual renovada do MobiTec em verde esmeralda e ciano sobre fundo escuro contínuo, perfeitamente enquadrado no formato redondo do Android",
-    "Alarme de Retorno no Diário de Bordo (App Fechado): Aviso sonoro e vibração de alta prioridade 5 minutos após retornar à empresa (com reforço aos 8 min), funcionando mesmo com o aplicativo fechado ou minimizado via AlarmManager nativo do Android",
-    "Aviso Orientativo no Atendimento Externo: Alerta integrado instantâneo (sem piscar a tela) informando que o botão deve ser utilizado apenas para endereços aleatórios sem GRE ou escola",
-    "Múltiplos Equipamentos no Atendimento Externo: Registre a entrega ou recolhimento de vários notebooks/equipamentos no mesmo local com lista dinâmica (+ Adicionar Outro) e notificação única consolidada no Telegram",
-    "Navegação 100% Silenciosa: Vibração de toques e cliques desativada para uma experiência suave sem tremer o aparelho a cada toque"
+    "Correção no Registro de Envio de Equipamentos: Envios e entregas não criam mais registro indevido em Entrada de Equipamento (apenas Recolhimentos registram entrada no servidor)",
+    "Múltiplas Zonas no Diário de Bordo: Agora o técnico pode marcar várias zonas/regiões antes de iniciar/salvar a viagem",
+    "Aviso Automático de Nova Versão: O alerta de atualização agora aparece automaticamente ao abrir o aplicativo sem precisar ir em Perfil",
+    "Novo Ícone Circular Adaptativo e Alarme de Retorno (5 min) no Diário de Bordo funcionando mesmo com o aplicativo fechado ou minimizado"
   ]
 }
