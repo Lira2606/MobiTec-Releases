@@ -1,16 +1,17 @@
 {
   "app": "MobiTec",
-  "versionName": "2.4.28",
-  "versionCode": 50,
+  "versionName": "2.4.29",
+  "versionCode": 51,
   "minimumVersionCode": 20,
   "mandatory": false,
-  "title": "Versão 2.4.28 - Correção de Envios, Múltiplas Zonas no Diário de Bordo e Atualização Automática",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.28/MobiTec.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.28",
+  "title": "Versão 2.4.29 - Tema Automático no Sol, Correção de Envios, Múltiplas Zonas e Estabilidade",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.29/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.29",
   "changes": [
+    "Tema Automático no Sol: Usa o sensor de luminosidade do aparelho para mudar automaticamente para o Tema Claro sob sol forte e voltar ao Escuro na sombra (com opção de ligar/desligar no Perfil)",
     "Correção no Registro de Envio de Equipamentos: Envios e entregas não criam mais registro indevido em Entrada de Equipamento (apenas Recolhimentos registram entrada no servidor)",
     "Múltiplas Zonas no Diário de Bordo: Agora o técnico pode marcar várias zonas/regiões antes de iniciar/salvar a viagem",
-    "Aviso Automático de Nova Versão: O alerta de atualização agora aparece automaticamente ao abrir o aplicativo sem precisar ir em Perfil",
-    "Novo Ícone Circular Adaptativo e Alarme de Retorno (5 min) no Diário de Bordo funcionando mesmo com o aplicativo fechado ou minimizado"
+    "Aviso Automático de Nova Versão: O alerta de atualização agora aparece imediatamente ao abrir o aplicativo sem precisar ir em Perfil",
+    "Novo Ícone Circular Adaptativo, ícone de notificação nítido na barra de status, Alarme Exato de retorno (5 min) no Diário de Bordo e otimizações de bateria e memória"
   ]
 }
