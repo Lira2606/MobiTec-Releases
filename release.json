@@ -1,17 +1,17 @@
 {
   "app": "MobiTec",
-  "versionName": "2.4.29",
-  "versionCode": 51,
+  "versionName": "2.4.30",
+  "versionCode": 52,
   "minimumVersionCode": 20,
   "mandatory": false,
-  "title": "Versão 2.4.29 - Tema Automático no Sol, Correção de Envios, Múltiplas Zonas e Estabilidade",
-  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.29/MobiTec.apk",
-  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.29",
+  "title": "Versão 2.4.30 - Recolhimento de MobiFace nas Tarefas, Tema Automático no Sol e Correção de Envios",
+  "apkUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/download/v2.4.30/MobiTec.apk",
+  "releasePageUrl": "https://github.com/Lira2606/MobiTec-Releases/releases/tag/v2.4.30",
   "changes": [
+    "Recolhimento de MobiFace nas Tarefas: Nova opção na conclusão de OS de MobiFace para registrar recolhimento do aparelho da escola direto em Entrada de Equipamento",
     "Tema Automático no Sol: Usa o sensor de luminosidade do aparelho para mudar automaticamente para o Tema Claro sob sol forte e voltar ao Escuro na sombra (com opção de ligar/desligar no Perfil)",
     "Correção no Registro de Envio de Equipamentos: Envios e entregas não criam mais registro indevido em Entrada de Equipamento (apenas Recolhimentos registram entrada no servidor)",
     "Múltiplas Zonas no Diário de Bordo: Agora o técnico pode marcar várias zonas/regiões antes de iniciar/salvar a viagem",
-    "Aviso Automático de Nova Versão: O alerta de atualização agora aparece imediatamente ao abrir o aplicativo sem precisar ir em Perfil",
-    "Novo Ícone Circular Adaptativo, ícone de notificação nítido na barra de status, Alarme Exato de retorno (5 min) no Diário de Bordo e otimizações de bateria e memória"
+    "Aviso Automático de Nova Versão, Novo Ícone Circular Adaptativo e Alarme Exato de retorno (5 min) no Diário de Bordo"
   ]
 }
